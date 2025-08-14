@@ -19,6 +19,6 @@ questionable PMF).
 
 ---
 
-**Inspired the open-source C CLI version:**
+**Inspired the open-source TUI version:**
 
 [genbraham/hermaeus](https://github.com/genbraham/hermaeus)
