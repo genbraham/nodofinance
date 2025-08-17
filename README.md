@@ -19,6 +19,6 @@ questionable PMF).
 
 ---
 
-**Inspired the open-source TUI version:**
+**Inspired the open-source version:**
 
 [genbraham/hermaeus](https://github.com/genbraham/hermaeus)
