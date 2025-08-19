@@ -1,7 +1,7 @@
 ## nodo.finance
 
 The core concept for
-[genbraham/refinery](https://github.com/genbraham/refinery).
+[genbraham/intrinsic](https://github.com/genbraham/intrinsic).
 
 A production-ready side-project app that never made it to production (no time,
 questionable PMF).
@@ -21,4 +21,4 @@ questionable PMF).
 
 **Inspired the open-source desktop version:**
 
-[genbraham/refinery](https://github.com/genbraham/refinery)
+[genbraham/intrinsic](https://github.com/genbraham/intrinsic)
